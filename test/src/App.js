@@ -18,6 +18,10 @@ function App() {
           Learn React Version 2
 
           BranchBOnly!
+          BranchA Only
+          BranchA only!
+
+          Yes!
         </a>
       </header>
     </div>
