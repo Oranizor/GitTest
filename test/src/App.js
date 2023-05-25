@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React Version 2
+          BranchA Only
         </a>
       </header>
     </div>
