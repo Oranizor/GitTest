@@ -17,8 +17,7 @@ function App() {
         >
           Learn React Version 2
 
-          onlyBrachA
-          onlyBranchA
+          IT'S ONLY FOR BRANCH A A A
         </a>
       </header>
     </div>
