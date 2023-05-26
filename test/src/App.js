@@ -17,13 +17,8 @@ function App() {
         >
           Learn React Version 2
 
-          you
-          
-          fuck you
-
-          YYY
-
-          YESWEAEE
+          onlyBrachA
+          onlyBranchA
         </a>
       </header>
     </div>
