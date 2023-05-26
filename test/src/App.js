@@ -17,13 +17,7 @@ function App() {
         >
           Learn React Version 2
 
-          BranchBOnly!
-          BranchA Only
-          BranchA only!
-
-          Yes!
-
-          this is branchB it's mixed
+          IT'S BRANCH B B B B!
         </a>
       </header>
     </div>
