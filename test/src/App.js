@@ -17,13 +17,7 @@ function App() {
         >
           Learn React Version 2
 
-          you
-          
-          fuck you
-
-          YYY
-
-          YESWEAEE
+          IT'S MASTER BRANCH
         </a>
       </header>
     </div>
